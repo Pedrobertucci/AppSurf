@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pedrobertucci/AndroidStudioProjects/NoSurf/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/pedrobertucci/.android/build-cache/a4e64cf0cbb733d33461e46f08eb024fe555a0ec/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/pedrobertucci/AndroidStudioProjects/NoSurf/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/pedrobertucci/.android/build-cache/a4e64cf0cbb733d33461e46f08eb024fe555a0ec/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "109572461708",
+    "firebase_url": "https://no-surf.firebaseio.com",
+    "project_id": "no-surf",
+    "storage_bucket": "no-surf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109572461708:android:b687657956787a8b",
+        "android_client_info": {
+          "package_name": "com.example.pedro.nosurf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109572461708-r6qeik7vucpqd0cth753slh3ie05gq7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccZny5pyo_Ps-MSZeuYWURkrMZqTrMZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109572461708:android:c2106de6c49fb1b3",
+        "android_client_info": {
+          "package_name": "com.jarpdev.nosurf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109572461708-r6qeik7vucpqd0cth753slh3ie05gq7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccZny5pyo_Ps-MSZeuYWURkrMZqTrMZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
